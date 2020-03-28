@@ -1,2 +1,2 @@
 # todolist
-# 初学nodejs，看了几天教程，写了几行代码
+## 初学nodejs，练习使用express，学习mvc和restful
